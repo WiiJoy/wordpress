@@ -174,13 +174,12 @@ h2.title {
 
 .optimization {
     min-height: 550px;
-    padding: 102px 0 56px 0;
+    padding: 102px 0 107px 0;
 }
 
 .optimization .optimization_header {
     margin-left: 391px;
     font-size: 29px;
-    line-height: 1px;
     font-weight: 900;
     text-transform: uppercase;
     color: #299cbd;
@@ -190,7 +189,7 @@ h2.title {
     margin-top: 25px;
     margin-left: 391px;
     font-size: 17px;
-    line-height: 25px;
+    line-height: 27px;
     font-weight: 300;
     color: #4a4a4a;
 }
@@ -201,7 +200,7 @@ h2.title {
 
 .optimization .optimization_img {
     position: absolute;
-    top: -48px;
+    bottom: -107px;
     left: -240px;
     z-index: -1;
 }
